@@ -4,4 +4,4 @@
 
 ## Table of Contents
 
-- [Learning Process]()
+- [Learning Process](https://github.com/Kkrilin/life-skills-track/blob/master/learning-process.md)
