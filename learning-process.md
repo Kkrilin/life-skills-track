@@ -1,7 +1,7 @@
 ### Question 1
 What is the Feynman Technique? Explain in 1 line.
 
-Select and understand the concept and then teach someone in a very simple term who have no prior knowledge.
+- Select and understand the concept and then teach someone in a very simple term who have no prior knowledge.
 
 
 ### Question 2
