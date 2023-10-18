@@ -7,3 +7,4 @@
 - [Learning Process](https://github.com/Kkrilin/life-skills-track/blob/master/learning-process.md)
 - [Listening and Active Communication](https://github.com/Kkrilin/life-skills-track/blob/master/listening-and-assertive-communication.md)
 - [Prevention of Sexual Harassment](https://github.com/Kkrilin/life-skills-track/blob/master/prevention-of-sexual-harassment.md)
+- [SOLID technical paper](https://github.com/Kkrilin/life-skills-track/blob/master/technical-paper.md)
