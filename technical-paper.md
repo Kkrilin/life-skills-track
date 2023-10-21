@@ -1,6 +1,6 @@
 <h1 align='center'>SOLID Principles</h1>
 
-## introduction
+## Introduction
 
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin (also known as Uncle Bob).
 These principles are aimed at helping software developers create more maintainable, flexible, and understandable code. 
