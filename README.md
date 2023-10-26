@@ -10,3 +10,6 @@
 - [SOLID technical paper](https://github.com/Kkrilin/life-skills-track/blob/master/technical-paper.md)
 - [Energy Managment](https://github.com/Kkrilin/life-skills-track/blob/master/energy-management.md)
 - [Focus Managment](https://github.com/Kkrilin/life-skills-track/blob/master/focus-management.md)
+- [Grit And Growth Mindset]()
+- [Tiny Habits]()
+- [Good Practices For Software Development]()
