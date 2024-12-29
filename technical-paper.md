@@ -9,10 +9,10 @@ These principles are aimed at helping software developers create more maintainab
 Solid stands for:
 
 - S -> [Single responsiblity Principle](#Single-responsiblity)
-- S -> [Open closed Principle](#Open-closed)
-- S -> [Liskov Substitution Principle](#Liskov-Substitution)
-- S -> [Interface Segregation Principle](#Interface-Segregation)
-- S -> [Dependency Inversion Principle](#Dependency-Inversion)
+- O -> [Open closed Principle](#Open-closed)
+- L -> [Liskov Substitution Principle](#Liskov-Substitution)
+- I -> [Interface Segregation Principle](#Interface-Segregation)
+- D -> [Dependency Inversion Principle](#Dependency-Inversion)
 
 
 <a id="Single-responsiblity"></a>
